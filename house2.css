@@ -66,6 +66,9 @@ body{
 #sumbt{
     background-color: beige;
 }
+#sumbt input{
+    border-radius: 1px solid blue;
+}
 #abut.active{
     background-color: aqua;
     color: red;
